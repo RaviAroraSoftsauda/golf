@@ -1,0 +1,26 @@
+.login-body {
+    overflow: hidden;
+    box-shadow: inset 0 4px 0 0 #007bff;
+	border-radius: .625rem;
+	text-align: center;
+}
+.c-login-wrapper{
+	height:100vh;
+}
+.c-login .ant-row.ant-form-item {
+    display: flex;
+    flex-direction: column;
+}
+
+.c-login .ant-form-item-label {
+    text-align: left;
+}
+
+.c-login .ant-col.ant-form-item-control-wrapper{
+    width:100%;
+    
+}
+
+.c-login .ant-row.ant-form-item {
+    margin-bottom: 0;
+}
